@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*------- NAVBAR -------*/
+.current_page_item{
+	font-weight: bold;
+}
+
+.menu-item{
+	padding: 0 20px;
+}
